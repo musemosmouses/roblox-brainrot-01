@@ -1,0 +1,4 @@
+# Build outputs and logs from local runs.
+out/
+out2/
+*.log
